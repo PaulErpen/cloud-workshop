@@ -1,0 +1,7 @@
+.main-content {
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 5px 10px;
+    background: lightgray;
+    border-radius: 5px;
+}
