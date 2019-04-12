@@ -5,3 +5,13 @@
     background: lightgray;
     border-radius: 5px;
 }
+
+body {
+    background-color: lightgrey;
+}
+
+.header {
+    font-color: white;
+    background: mediumseagreen;
+    border-radius: 3px;
+}
